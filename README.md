@@ -5,6 +5,17 @@ Your perfect assistant for creating and running trainings and courses.
 
 Create and share your workouts and training courses, train together with friends even if you are separated by distance. Train and gain knowledge from the best author's courses from professional trainers. With CoachGuide you will get access to powerful tools that will make the training process more effective and fun.
 
+## Screenshots
+
+<p float="left">
+<img src="./images/s_eng_1.jpeg" width="256"/>
+<img src="./images/s_eng_2.jpeg" width="256"/>
+<img src="./images/s_eng_3.jpeg" width="256"/>
+<img src="./images/s_eng_4.jpeg" width="256"/>
+<img src="./images/s_eng_5.jpeg" width="256"/>
+<img src="./images/s_eng_6.jpeg" width="256"/>
+</p>
+
 ## Main functions
 
   - **Training plan**: Train according to your own training plan. The user-friendly interface makes it easy to follow the training plan and know when the next training is.
